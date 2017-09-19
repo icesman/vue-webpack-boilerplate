@@ -1,0 +1,48 @@
+{
+  "name": "vue-component",
+  "description": "Poly Project",
+  "author": "Poly",
+  "license": "None",
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development webpack-dev-server --inline --hot --open",
+    "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
+  },
+  "dependencies": {
+    "element-ui": "latest",
+    "axios": "latest",
+    "moment": "latest",
+    "vue": "latest",
+    "vue-router": "latest",
+    "vuex": "latest"
+  },
+  "devDependencies": {
+    "babel-core": "latest",
+    "babel-loader": "latest",
+    "babel-plugin-transform-runtime": "latest",
+    "babel-preset-es2015": "latest",
+    "babel-preset-stage-2": "latest",
+    "clean-css-loader": "latest",
+    "cross-env": "latest",
+    "css-loader": "latest",
+    "cssnano": "latest",
+    "eslint": "latest",
+    "eslint-config-vue": "latest",
+    "eslint-plugin-vue": "latest",
+    "extract-text-webpack-plugin": "latest",
+    "file-loader": "latest",
+    "glob": "latest",
+    "html-loader": "latest",
+    "html-webpack-inline-source-plugin": "latest",
+    "html-webpack-plugin": "latest",
+    "lodash": "latest",
+    "optimize-css-assets-webpack-plugin": "latest",
+    "raw-loader": "latest",
+    "source-map-loader": "latest",
+    "style-loader": "latest",
+    "url-loader": "latest",
+    "vue-loader": "latest",
+    "vue-template-compiler": "latest",
+    "webpack": "latest",
+    "webpack-dev-server": "latest"
+  }
+}
