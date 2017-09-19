@@ -13,4 +13,7 @@ All the config files of Webpack are included in the `webpack` folder.
 
 Some the files listed above finally will be imported in the `webpack.config.js` on the root folder.
 
+#How to run
 
+* yarn install
+* yarn run dev
