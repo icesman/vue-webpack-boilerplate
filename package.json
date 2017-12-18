@@ -1,7 +1,7 @@
 {
   "name": "vue-component",
-  "description": "Poly Project",
-  "author": "Poly",
+  "description": "Demo Project",
+  "author": "Canbin",
   "license": "None",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --inline --hot --open",
